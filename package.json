@@ -1,0 +1,30 @@
+{
+  "name": "lit-self-closing",
+  "version": "1.0.0",
+  "description": "Self-closing tags for lit-html",
+  "type": "module",
+  "main": "lit-self-closing.js",
+  "module": "lit-self-closing.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aigan/lit-self-closing.git"
+  },
+  "keywords": [
+    "lit-html"
+  ],
+  "author": "Jonas Liljegren",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/aigan/lit-self-closing/issues"
+  },
+  "homepage": "https://github.com/aigan/lit-self-closing#readme",
+  "dependencies": {
+    "lit": "^2.3.0"
+  }
+}
